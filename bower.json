@@ -1,0 +1,32 @@
+{
+  "name": "is-mp4",
+  "description": "Check if a Buffer/Uint8Array is a MP4 video",
+  "license": "MIT",
+  "main": "browser.js",
+  "authors": [
+    {
+      "name": "Robo",
+      "email": "hop2deep@gmail.com"
+    }
+  ],
+  "keywords": [
+    "mp4",
+    "graphics",
+    "video",
+    "type",
+    "detect",
+    "check",
+    "is",
+    "exif",
+    "binary",
+    "buffer",
+    "uint8array"
+  ],
+  "ignore": [
+    ".*",
+    "test.js",
+    "component.json",
+    "package.json",
+    "fixture*"
+  ]
+}

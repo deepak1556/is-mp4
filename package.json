@@ -1,0 +1,39 @@
+{
+  "name": "is-mp4",
+  "version": "0.1.0",
+  "description": "Check if a Buffer/Uint8Array is a MP4 video",
+  "license": "MIT",
+  "repository": "deepak1556/is-mp4",
+  "author": {
+    "name": "Robo",
+    "email": "hop2deep@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha",
+    "browser": "browserify -s $npm_package_name -o browser.js ."
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "mp4",
+    "graphics",
+    "video",
+    "type",
+    "detect",
+    "check",
+    "is",
+    "exif",
+    "binary",
+    "buffer",
+    "uint8array"
+  ],
+  "devDependencies": {
+    "browserify": "^3.0.0",
+    "mocha": "*",
+    "read-chunk": "^0.1.0"
+  }
+}

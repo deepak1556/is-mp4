@@ -1,0 +1,23 @@
+{
+  "name": "is-mp4",
+  "version": "0.1.0",
+  "description": "Check if a Buffer/Uint8Array is a MP4 video",
+  "license": "MIT",
+  "repository": "deepak1556/is-mp4",
+  "scripts": [
+    "index.js"
+  ],
+  "keywords": [
+    "mp4",
+    "graphics",
+    "video",
+    "type",
+    "detect",
+    "check",
+    "is",
+    "exif",
+    "binary",
+    "buffer",
+    "uint8array"
+  ]
+}
